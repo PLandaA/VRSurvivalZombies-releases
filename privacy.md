@@ -4,7 +4,7 @@ title: VR Survival Zombies — Privacy Policy
 
 # VR Survival Zombies — Privacy Policy
 
-**Effective date:** October 8, 2026
+**Effective date:** October 12, 2026
 **Developer:** Pland ("we", "us")
 
 VR Survival Zombies is a free virtual reality game for Meta Quest headsets. It has no accounts, no advertising, no in-app purchases and no voice chat. This policy explains the little data the game handles and why.
@@ -33,7 +33,12 @@ Rooms are listed publicly to other players running the same version of the game,
 
 ## 3. Data stored on your headset
 
-The game saves a small amount of information **locally on your headset** only, such as your best wave and whether you have completed the tutorial. This data never leaves your device. Uninstalling the game deletes it.
+The game saves two pieces of information **locally on your headset** only:
+
+- your **personal best score** in Solo Survival;
+- your **standing height**, as measured by the headset's tracking, so that your in-game body is sized correctly the next time you play.
+
+This data never leaves your device: it is not sent to us, to Photon or to any other service, and your partner in co-op never sees your height (only the resulting avatar). Uninstalling the game deletes it.
 
 ## 4. Meta platform
 
@@ -45,7 +50,7 @@ The game is not directed at children under 13, and we do not knowingly collect p
 
 ## 6. Your rights and questions
 
-Since we keep no personal data on our side, there is no profile for us to access, correct or delete. For any question about this policy or about data handled by the online mode, write to the GitHub repository owner's email and we will answer.
+Since we keep no personal data on our side, there is no profile for us to access, correct or delete. The only data the game keeps is the local data described in section 3, and you can delete it at any time by uninstalling the game from your headset. For any question about this policy or about data handled by the online mode, write to the GitHub repository owner's email and we will answer.
 
 ## 7. Changes
 
